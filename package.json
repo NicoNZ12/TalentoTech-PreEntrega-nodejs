@@ -1,0 +1,17 @@
+{
+  "name": "pre-entrega",
+  "version": "1.0.0",
+  "description": "pre entrega del proyecto backend de Talento Tech",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "talentotech",
+    "backend",
+    "nodejs"
+  ],
+  "author": "Nicolás Núñez",
+  "license": "ISC"
+}
